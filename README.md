@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-url.com/banner.png" alt="banner" style="width:100%; border-radius:10px;"/>
+<img src="https://w7.pngwing.com/pngs/228/733/png-transparent-github-grafana-desktop-github-thumbnail.png" width="400"/>
 
 <h1 align="center">Hi there 👋 I'm Tommy Akbar</h1>
 <h3 align="center">🚀 IT Engineer | Configuration Hardware | Installation Hardware | Maintenance | Troubleshooting</h3>
@@ -8,8 +8,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🌐 Installation mindset : PC | Server | NAS backup | SAN storage
-- 🐳 Configuration planed : Microsoft Failover Clustering, System RAID, VMware
+- 🌐 Installation : PC | Server | NAS backup | SAN storage
+- 
+- 🐳 Configuration : Microsoft Failover Clustering, System RAID, VMware
 - 🧰 Infrastructure : Troubleshooting Network
 - 📜 Documentation : After installation, After Maintenance, After Troubleshooting
 - ⚡ Maintenance : Hardware server, pc, tools
@@ -64,7 +65,7 @@ Here are a few things I’ve built or contributed to recently:
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mukhammad-bustommy-akbar)](https://www.linkedin.com/in/mukhammad-bustommy-akbar-b15758168/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
