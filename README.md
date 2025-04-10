@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://w7.pngwing.com/pngs/228/733/png-transparent-github-grafana-desktop-github-thumbnail.png" width="400"/>
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <h1 align="center">Hi there 👋 I'm Tommy Akbar</h1>
 <h3 align="center">🚀 IT Engineer | Configuration Hardware | Installation Hardware | Maintenance | Troubleshooting</h3>
