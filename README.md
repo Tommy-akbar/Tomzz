@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌐 Installation : PC | Server | NAS backup | SAN storage
-- 
+- 🌐 Installation : Server | NAS backup | SAN storage
+- 💻 Operating System : Windows Server 2025
 - 🐳 Configuration : Microsoft Failover Clustering, System RAID, VMware
 - 🧰 Infrastructure : Troubleshooting Network
 - 📜 Documentation : After installation, After Maintenance, After Troubleshooting
