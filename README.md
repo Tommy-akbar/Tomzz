@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://your-banner-url.com/banner.png" alt="banner" style="width:100%; border-radius:10px;"/>
 
-<h1 align="center">Hi there 👋, I'm Tommy Akbar</h1>
+<h1 align="center">Hi there 👋 I'm Tommy Akbar</h1>
 <h3 align="center">🚀 IT Engineer | Configuration Hardware | Installation Hardware | Maintenance | Troubleshooting</h3>
 
 ---
