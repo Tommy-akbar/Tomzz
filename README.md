@@ -15,7 +15,7 @@
 - 🧰 Infrastructure : Troubleshooting Network
 - 📜 Documentation : After installation, After Maintenance, After Troubleshooting
 - ⚡ Maintenance : Hardware server, pc, tools
-- 🏆 Goals : Installation at RS Pelni, RSUD Lubuk Sikaping, RSUD Koja, RS Santosa, RSUD Cengkareng, RSUD Payangan, RSUD Johannes, RSCM, RSK Dharmais
+- 🏆 Goals : Installation has done in 11 hospital
 
 ---
 
