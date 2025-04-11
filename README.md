@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <br>
-<h1 align="center"># Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Tommy Akbar</h1>
+<h1 align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Tommy Akbar</h1>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <h3 align="center">🚀 IT Engineer | Configuration Hardware | Installation Hardware | Maintenance | Troubleshooting</h3>
