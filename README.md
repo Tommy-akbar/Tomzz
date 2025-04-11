@@ -7,7 +7,7 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🌐 Installation : Server | NAS backup | SAN storage
 - 💻 Operating System : Windows Server 2025
