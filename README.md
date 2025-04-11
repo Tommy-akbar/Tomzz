@@ -7,7 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨🏻‍💻 About Me
 
 - 🌐 Installation : Server | NAS backup | SAN storage
 - 💻 Operating System : Windows Server 2025
