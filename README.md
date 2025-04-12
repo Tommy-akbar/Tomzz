@@ -58,16 +58,15 @@
 
 Here are a few things I’ve built or contributed to recently:
 
-- 🚀 [Awesome DevOps Tooling](https://github.com/your-github-username/awesome-devops-tooling)
-- 🧩 [Kubernetes Deployment Boilerplate](https://github.com/your-github-username/k8s-deployment-boilerplate)
-- ⚙️ [Terraform Modules Library](https://github.com/your-github-username/terraform-modules)
-
+- 🚀 
+- 🧩 
+- ⚙️ 
 ---
 
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="[[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mukhammad-bustommy-akbar)](https://www.linkedin.com/in/mukhammad-bustommy-akbar-b15758168/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://www.linkedin.com/in/mukhammad-bustommy-akbar)](https://www.linkedin.com/in/mukhammad-bustommy-akbar-b15758168/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
