@@ -75,7 +75,7 @@ Here are a few things I’ve built or contributed to recently:
 <p align="center">💬 Always happy to talk about IT Engineering, software, or your next big idea!</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tommyakbar/tommyakbar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tommyakbar/tommyakbar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tommyakbar/tommyakbar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
