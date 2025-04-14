@@ -44,25 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&hide_border=true" />
-</div>
-
----
-
-### 🗂️ Projects
-
-Here are a few things I’ve built or contributed to recently:
-
-- 🚀 
-- 🧩 
-- ⚙️ 
----
-
 ### 📫 Connect with Me
 
 <div align="center">
