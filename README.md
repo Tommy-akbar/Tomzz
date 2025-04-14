@@ -72,7 +72,7 @@ Here are a few things I’ve built or contributed to recently:
 
 ---
 
-<p align="center">💬 Always happy to talk about DevOps, cloud, or your next big idea!</p>
+<p align="center">💬 Always happy to talk about IT Engineering, software, or your next big idea!</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
