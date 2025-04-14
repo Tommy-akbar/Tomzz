@@ -11,7 +11,7 @@
 
 - 🌐 Installation : Server | NAS backup | SAN storage
 - 💻 Operating System : Windows Server 2025
-- 🐳 Configuration : Microsoft Failover Clustering, System RAID, VMware
+- 🐳 Configuration : Microsoft Failover Clustering, System RAID, Create AD server & DNS
 - 🧰 Infrastructure : Troubleshooting Network
 - 📜 Documentation : After installation, After Maintenance, After Troubleshooting
 - ⚡ Maintenance : Hardware server, pc, tools
