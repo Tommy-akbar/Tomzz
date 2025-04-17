@@ -13,7 +13,7 @@
 - 💻 Operating System : Windows Server 2025
 - 🐳 Configuration : Microsoft Failover Clustering, System RAID, Create AD server, DNS, Set Up SAN & NAS
 - 🧰 Infrastructure : Troubleshooting Network
-- 📜 Documentation : After installation, After Maintenance, After Troubleshooting
+- 📜 Documentation : UAT & Documentation
 - ⚡ Maintenance : Hardware server, pc, tools
 - 🏆 Goals : Installation has done in 11 hospital
 
